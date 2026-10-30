@@ -5,7 +5,7 @@
 
 - **Projeto:** Doce Encanto Café — Simulador de Compras
 - **Aluna:** MILAINY SANTOS COSTA
-- **Trilha:** TRILHA 2026 - DESEVOLVIMENTO MOBILE
+- **Trilha:** TRILHA 2026 - DESENVOLVIMENTO MOBILE
 
 ## Apresentação da loja
 
